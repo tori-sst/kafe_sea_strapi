@@ -1,0 +1,28 @@
+{
+  "kind": "collectionType",
+  "collectionName": "ui_components",
+  "info": {
+    "singularName": "ui-component",
+    "pluralName": "ui-components",
+    "displayName": "UIComponent"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "alt": {
+      "type": "string"
+    },
+    "image": {
+      "type": "media",
+      "multiple": false,
+      "allowedTypes": [
+        "images",
+        "files",
+        "videos",
+        "audios"
+      ]
+    }
+  }
+}

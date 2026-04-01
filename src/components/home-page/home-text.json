@@ -1,0 +1,16 @@
+{
+  "collectionName": "components_home_page_home_texts",
+  "info": {
+    "displayName": "HomeText"
+  },
+  "options": {},
+  "attributes": {
+    "icon": {
+      "type": "string"
+    },
+    "description": {
+      "type": "text"
+    }
+  },
+  "config": {}
+}

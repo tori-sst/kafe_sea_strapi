@@ -1,0 +1,16 @@
+{
+  "collectionName": "components_home_page_home_conclucions",
+  "info": {
+    "displayName": "HomeConclucion"
+  },
+  "options": {},
+  "attributes": {
+    "concl1": {
+      "type": "text"
+    },
+    "concl2": {
+      "type": "text"
+    }
+  },
+  "config": {}
+}
